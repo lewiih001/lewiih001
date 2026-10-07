@@ -1,63 +1,93 @@
-# Hi there, I'm Brian Musili 👋
+# Hi, I'm Brian Musili 👋
 
-## 🚀 About Me
-I'm a passionate Full Stack Software Engineer and technical co-founder with 4+ years of experience building scalable, high-performance systems in Elixir/Phoenix, Java/Spring Boot, and React. I specialize in fintech infrastructure, payment gateway integration, and multi-tenant SaaS products — engineered for reliability and real-world impact.
+## About Me
+I’m a passionate Full Stack Software Engineer and technical co-founder with 4+ years of experience designing, building, and scaling reliable software systems across fintech, SaaS, and enterprise platforms. I work primarily with Elixir/Phoenix, Java/Spring Boot, and React, with a strong focus on performance, maintainability, and business impact.
 
-- 💬 Ask me about Elixir/Phoenix, Java/Spring Boot, payment integrations (M-Pesa, CyberSource), and microservices
-- 📫 How to reach me: musilibrian07@gmail.com
-- 🌍 Based in: Nairobi, Kenya
+My work has centered on building payment infrastructure, platform modernization, and multi-tenant product systems that support real-world operations in high-trust environments.
 
-## 🛠️ Tech Stack
+- 💬 Ask me about: Elixir/Phoenix, Java/Spring Boot, React, payment integrations, distributed systems, and SaaS architecture
+- 📫 Email: musilibrian07@gmail.com
+- 🌍 Location: Nairobi, Kenya
+- 🧠 Focus: Fintech infrastructure, system design, and resilient backend engineering
+
+## Tech Stack
 
 ### Languages
-Elixir | Java | TypeScript | JavaScript
+- Elixir
+- Java
+- TypeScript
+- JavaScript
+- SQL
 
 ### Frontend
-React | Next.js | Phoenix LiveView
+- React
+- Next.js
+- Phoenix LiveView
+- HTML/CSS
 
 ### Backend
-Spring Boot | Phoenix | Java EE
+- Spring Boot
+- Phoenix
+- Java EE
+- REST APIs
+- Microservices
 
 ### Databases & Messaging
-PostgreSQL | MySQL | MongoDB | Apache Kafka
+- PostgreSQL
+- MySQL
+- MongoDB
+- Apache Kafka
 
 ### Cloud & DevOps
-Docker | Kubernetes | Linux | Git | Oracle Cloud
+- Docker
+- Kubernetes
+- Linux
+- Git
+- Oracle Cloud
 
-## 💼 Professional Experience
+## Professional Experience
 
-### Software Engineer @ Pesaflow Limited (Oct 2025 – Present)
-- Building end-to-end fintech payments infrastructure in Elixir/Phoenix
-- Designed double-entry accounting ledger and integrated M-Pesa, Airtel Money, and CyberSource (EMV 3DS)
-- Engineered fault-tolerant async payment processing using OTP/Oban supervision trees
+### Software Engineer — Pesaflow Limited
+Oct 2025 – Present
 
-### Software Engineer @ Systech Limited (Aug 2023 – Oct 2025)
-- Led full-stack migration of the Pension Members Portal from legacy Sencha Ext JS to React 19
-- Built RBA-compliant pension benefit calculation engine serving 5,000+ members
-- Automated KYC identity verification via IPRS integration, reducing manual effort by 80%+
+- Built fintech payment infrastructure in Elixir/Phoenix for secure, high-volume transaction processing
+- Designed a double-entry accounting ledger to support transparent financial reconciliation and ledger integrity
+- Integrated M-Pesa, Airtel Money, and CyberSource (including EMV 3DS) for robust multi-channel payment flows
+- Engineered fault-tolerant asynchronous payment processing using OTP/Oban supervision patterns and resilient workflows
 
-### Co-Founder & Director of Engineering @ Tek Triangle (2022 – Present)
-- Architected and shipped a live inventory + accounting SaaS platform for a sneaker retailer
-- Designed pluggable costing engine and real-time Paystack checkout processing live payments
+### Software Engineer — Systech Limited
+Aug 2023 – Oct 2025
 
-## 🏅 Certifications
-- 🏆 Oracle Certified Associate, Java SE 8 Programmer
-- 🏆 Arcitura Certified Microservices Professional
-- 🏆 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- 🏆 Google UX Design Certificate
+- Led the full-stack migration of the Pension Members Portal from legacy Sencha Ext JS to React 19
+- Built a rules-based pension benefit calculation engine serving 5,000+ members with high accuracy and maintainability
+- Automated KYC verification through IPRS integration, reducing manual processing efforts by 80%+
+- Improved system usability and operational efficiency across pension member workflows
 
-## 🤝 Connect with Me
-- [LinkedIn](#)
-- [Gmail](mailto:musilibrian07@gmail.com)
-- [GitHub](https://github.com/lewiih001)
+### Co-Founder & Director of Engineering — Tek Triangle
+2022 – Present
 
-## 🌱 Interests & Passions
-Beyond coding, I'm passionate about:
+- Architected and delivered a live inventory and accounting SaaS platform for a sneaker retailer
+- Designed a pluggable costing engine to support dynamic pricing and inventory control
+- Integrated real-time Paystack checkout flows for live payment processing and operational continuity
+- Worked across product, engineering, and business requirements to deliver a customer-oriented platform
 
-- 🌍 Building for Africa — solving real problems for African businesses and communities
-- 🏗️ Systems design — thinking deeply about distributed systems and fault tolerance
-- 🤝 Developer community — mentoring and collaborating with fellow engineers in Nairobi
-- 📚 Continuous learning — currently diving deeper into distributed Elixir and cloud-native architecture
+## Certifications
+- Oracle Certified Associate, Java SE 8 Programmer
+- Arcitura Certified Microservices Professional
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Google UX Design Certificate
 
-## ⭐ From Brian Musili
-Engineering systems that matter.
+## Connect
+- GitHub: https://github.com/lewiih001
+- Email: musilibrian07@gmail.com
+
+## Interests & Passions
+Beyond coding, I’m passionate about:
+
+- Building technology that addresses real African business and community needs
+- Designing resilient distributed systems and fault-tolerant architectures
+- Mentoring and collaborating with fellow engineers in Nairobi and beyond
+- Continuous learning in cloud-native architecture, systems design, and modern backend engineering
+
+## Closing
+I build systems that matter — scalable software, dependable infrastructure, and solutions that create measurable business value.
