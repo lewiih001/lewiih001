@@ -6,7 +6,7 @@
 
 ## About Me
 
-A builder focused on applying technology to solve real problems. I have spent half a decade solving problems for businesses, consulting on strategy and digital transformation. Throughout this journey, I’ve worked across product, engineering, and business operations to design systems that are not just functional, but resilient, measurable, and scalable.
+A builder focused on applying technology to solve real problems. I have spent half a decade solving problems for businesses, consulting on strategy and digital transformation. Throughout this journey, I’ve worked across product, engineering, and business operations to design systems that are not just functional, but resilient, innovative, and scalable.
 
 <div align="center">
   
