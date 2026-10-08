@@ -1,4 +1,4 @@
-# Hi, I'm Lewis Ndila 👋
+# Hello, I'm Lewis Ndila 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer Animation"/>
