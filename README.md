@@ -1,7 +1,7 @@
 # Hello, I'm Lewis Ndila 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FFFFFF&background=111827&width=700&lines=Building+reliable+systems+and+elegant+APIs;Design-first+engineering+for+scale+and+resilience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FFFFFF&background=111827&width=700&lines=Building+reliable+systems+and+elegant+APIs;Design-first+engineering+for+scale" alt="Typing banner" />
 </p>
 
 > Building reliable systems and elegant APIs with a design-first mindset.
@@ -39,7 +39,7 @@ Java · Ruby · TypeScript · JavaScript · React · Rails · Spring Boot · Doc
 
 <p align="center">
   <!-- Contribution activity graph (dynamic) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=lewiih001&theme=github&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.a5a.workers.dev/graph?username=lewiih001&theme=github&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
@@ -51,6 +51,5 @@ Java · Ruby · TypeScript · JavaScript · React · Rails · Spring Boot · Doc
 
 <p align="center">Passionate about building systems that scale — open to collaborations and conversations.</p>
 
-
 <!-- Notes for maintainers: -->
-<!-- These visual widgets are provided by third-party services (github-readme-stats, readme-typing-svg, activity-graph, etc.). If you want different themes, more/less cards, or to remove any external service for privacy reasons, I can update the README accordingly. -->
+<!-- These visual widgets are provided by third-party services (github-readme-stats, readme-typing-svg, activity-graph, etc.). If you want different themes, more/less cards, or to remove any external widgets, edit this file accordingly. -->
