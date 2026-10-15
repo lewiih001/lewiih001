@@ -1,20 +1,12 @@
 # Hello, I'm Lewis Ndila 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&color=08F7FE&background=0b1220&width=1000&lines=Platform+Engineer+%E2%80%A2+System+Builder;Design-first+APIs+%E2%80%A2+Performance+%26+Observability;Building+reliable+systems+for+scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&color=08F7FE&background=0b1220&width=1000&lines=Platform+Engineer+%E2%80%A2+System+Builder;Design-first+APIs+%E2%80%A2+Perfor[...]" alt="Typing banner" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rank-Top%200.01%25-%23FF007A?style=for-the-badge&logo=github" alt="Top rank" />
-  <img src="https://komarev.com/ghpvc/?username=lewiih001&color=0e75b6" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lewiih001.lewiih001" alt="Visitor badge" />
-</p>
+## About
 
 > Building reliable systems and elegant APIs with a design-first mindset — performance and observability first.
-
----
-
-## Quick pitch
 
 I build resilient backend platforms and developer-friendly APIs. I focus on reliability, measurable performance, and operational clarity so systems scale without chaos.
 
@@ -27,43 +19,31 @@ I build resilient backend platforms and developer-friendly APIs. I focus on reli
 
 ---
 
-## Elite Visuals — Dynamic Profile
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lewiih001&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+</p>
 
-This layout is built to look premium, active, and high-signal: strong card contrast, tech badges, live contribution activity, streaks, and achievement markers.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiih001&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lewiih001&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiih001&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiih001&theme=dark&hide_border=true" alt="Streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=lewiih001&theme=apollo&no-frame=true&margin-w=10" alt="Trophies" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lewiih001&theme=react-dark&area=true&hide_border=true" alt="Contribution graph" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewiih001&theme=dark&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lewiih001&theme=apollo&no-frame=true&margin-w=10" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lewiih001&theme=react-dark&area=true&hide_border=true" alt="Contribution graph" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Commits-%3E1000-ffb703?style=for-the-badge&logo=github" alt="Commits" />
   <img src="https://img.shields.io/badge/Repositories-%3E10-06d6a0?style=for-the-badge&logo=github" alt="Repos" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20years-8ecae6?style=for-the-badge" alt="Experience" />
 </p>
-
-Notes:
-- These widgets are powered by third-party services (GitHub Readme Stats, Streak Stats, Trophy, Activity Graph). They are great for creating a vibrant profile but can occasionally rate-limit.
-- If you want more influence, I can add WakaTime, Spotify now-playing, or a custom animated SVG hero next.
 
 ---
 
