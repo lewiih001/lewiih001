@@ -2,9 +2,9 @@
 
 ## About
 
-> Building reliable systems and elegant APIs with a design-first mindset — performance and observability first.
+> I Build Software Right.
 
-I build resilient backend platforms and developer-friendly APIs with a focus on reliability, measurable performance, and operational clarity so systems scale without chaos.
+I am a builder focused on applying technology to solve real problems. I have spent half a decade solving problems for businesses, consulting on strategy and digital transformation. Throughout this journey, my Purpose remains the same: To Build Technology that Powers Businesses. I specialise in Fintech   Infrastructure, E-Commerce, and Payments Solutions Engineered for Reliability and Impact
 
 📍 Nairobi, Kenya • 📫 lewismunyambu@gmail.com
 
